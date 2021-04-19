@@ -3,7 +3,7 @@ import config
 
 url = "https://api.yelp.com/v3/businesses/search"
 headers = {
-    "Authorization" : "Bearer " + config.api_key
+    "Authorization" : "Bearer " + config.yelp_api_key
 }
 params = {
     "location": "NYC",

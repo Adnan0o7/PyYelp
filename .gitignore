@@ -2,3 +2,4 @@
 config.py
 .DS_Store
 .vscode/settings.json
+__pycache__/twilio.cpython-38.pyc
