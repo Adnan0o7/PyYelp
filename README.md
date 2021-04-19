@@ -1,2 +1,2 @@
 # PyYelp
- Use case for YELP api with python
+ Use case for using external apis with python
