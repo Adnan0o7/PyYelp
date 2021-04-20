@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 requests = "*"
 twilio = "*"
+beautifulsoup4 = "*"
+pylint = "*"
+pep8 = "*"
 
 [dev-packages]
 
