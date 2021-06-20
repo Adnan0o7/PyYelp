@@ -1,0 +1,3 @@
+[submodule "rest_tutorial"]
+	path = rest_tutorial
+	url = https://github.com/Python-NinjasN/rest_tutorial

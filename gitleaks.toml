@@ -1,0 +1,3 @@
+[allowlist]
+    description = "skip module"
+    file = ['''rest_tutorial''']
